@@ -16,6 +16,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'devise'
 gem 'toastr-rails', '~> 1.0', '>= 1.0.3'
+gem "figaro"
 
 
 group :development, :test do
