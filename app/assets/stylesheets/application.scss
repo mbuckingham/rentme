@@ -128,6 +128,27 @@ a {
   line-height: 25px;
 }
 
+.sidebar-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.sidebar-link {
+  color: #82888a;
+  text-decoration: none;
+}
+
+.sidebar-link:hover, .sidebar-link:focus {
+  color: #CACCCD;
+  text-decoration: none;
+}
+
+.active.sidebar-link {
+  color: #566A5C;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 .avatar-small {
   width: 28px;
 }
