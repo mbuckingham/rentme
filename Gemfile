@@ -19,6 +19,7 @@ gem 'toastr-rails', '~> 1.0', '>= 1.0.3'
 gem "figaro"
 gem 'omniauth', '~> 1.8', '>= 1.8.1'
 gem 'omniauth-facebook', '~> 5.0'
+gem "paperclip", "~> 6.0.0"
 
 
 group :development, :test do
